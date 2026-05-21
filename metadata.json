@@ -1,0 +1,8 @@
+{
+  "name": "Remix: QuestLife",
+  "description": "A vibrantly gamified, delight-first habit tracker that turns daily routines into rewarding quests with a living mascot, tactile interactions, and immersive progress grids.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
